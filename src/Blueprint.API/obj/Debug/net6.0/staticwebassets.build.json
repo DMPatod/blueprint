@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N9IKvCYCDrd5gUrYtm8B/NlqrmBMXwvZ+ErpOdvdeCI=",
+  "Source": "Blueprint.API",
+  "BasePath": "_content/Blueprint.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

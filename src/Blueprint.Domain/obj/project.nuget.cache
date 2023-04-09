@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFT+YuYjW1hko0iaWn6aoMUfxNm2V3FvBmm5SlfuD4N7uZYgXzLyzyWtQ44rfrLHCH7uleBsXgfXy78ee7CQTA==",
+  "success": true,
+  "projectFilePath": "D:\\Blueprint\\src\\Blueprint.Domain\\Blueprint.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
